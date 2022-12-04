@@ -1,3 +1,3 @@
-# vaccine-app
+# Payroll App using React Native and Expo
 
-The Nurse Vaccine Mobile Application for the LGU Carigara Vaccination Management System
+
